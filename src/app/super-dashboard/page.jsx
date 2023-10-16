@@ -1,11 +1,11 @@
 import AdminDashboard from '@/components/AdminDashboard/AdminDashboard'
 
-const AdminDashboardPage = () => {
+const superdashboard = () => {
   return (
     <div>
-        <AdminDashboard/>
+      <AdminDashboard />
     </div>
   )
 }
 
-export default AdminDashboardPage
+export default superdashboard

@@ -209,7 +209,7 @@ const Topbar = () => {
                             <Nav.Link style={{ fontSize: '.94rem' }}>
                                 <div className="notifications">
                                     <NotificationsNoneIcon />
-                                    <span className="notification_num">9</span>
+                                    <span className="notification_num"></span>
                                 </div>
                             </Nav.Link>
                             <Nav.Link href="#" onClick={handleShow}>
@@ -364,6 +364,6 @@ const Topbar = () => {
             </Offcanvas>
         </div>
     )
-}
 
+}
 export default Topbar
