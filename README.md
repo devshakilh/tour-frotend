@@ -2,7 +2,7 @@
 ## TRAVEL AND TOUR:
 
 ## DEMOSTRATION VIDEO:
-- [Video](https://www.loom.com/share/b912d43a00b346d5a8b0bf4971b5fa6a?sid=a3f54156-d742-4bb2-acea-77c195e99120) 
+- [Video](https://www.awesomescreenshot.com/video/21630859?key=30c33d1cc2b034a607ed6de32cf729cc) 
 
 
 ## IMPLEMENTED ALL FEATURES IN TRAVEL TOUR:
